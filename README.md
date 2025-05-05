@@ -1,7 +1,7 @@
 ```c
-NAME : Paranthaman S
+NAME   : Paranthaman S
 REG-NO : 212224040232
-DATE : 05-05-25
+DATE   : 
 ```
 # EXP-2 : Fitting Poisson  distribution
 # Aim : 
